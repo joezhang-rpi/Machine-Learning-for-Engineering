@@ -1,0 +1,11 @@
+
+edit contrl.txt to select the slip plane
+
+execute gccm_single to get pairs
+
+select the desirable pairs from select_pairs.txt
+(a1 as burger's vector, along the x-direction)
+
+copy the selected pairs to chosen.solution.txt
+
+execute gccm_generate to generate newcell.lmp 
